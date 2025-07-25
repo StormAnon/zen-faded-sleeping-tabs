@@ -1,0 +1,14 @@
+[
+     {
+        "property": "mod.faded.grayscale-level",
+        "label": "Grayscale level, can vary from 0 to one (default 0.5)",
+        "type": "string",
+        "defaultValue": "0.5"
+    },
+    {
+        "property": "mod.faded.opacity-level",
+        "label": "Opacity level, can vary from 0 to one (default 0.5)",
+        "type": "string",
+        "defaultValue": "0.5"
+    }
+]
